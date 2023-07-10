@@ -12,7 +12,7 @@ const db = {
             console.log(db);
         },
     },
-const items = [
+    items: [
         {
             id: 0,
             title: "Camiseta Argentina",
@@ -23,13 +23,13 @@ const items = [
             id: 1,
             title: "Camiseta River",
             Price: 18000,
-            qty: 20,
+            qty: 4,
         },
         {
             id: 2,
             title: "Camiseta Boca",
             Price: 17000,
-            qty: 25,
+            qty: 2,
         }
     ]
 }
