@@ -12,7 +12,7 @@ const db = {
             console.log(db);
         },
     },
-    items: [
+const items = [
         {
             id: 0,
             title: "Camiseta Argentina",
